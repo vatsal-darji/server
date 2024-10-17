@@ -68,6 +68,8 @@ Ensure you have the following installed:
    git clone https://github.com/your-repo/healthcare-provider-portal.git
    cd healthcare-provider-portal
 2. **Install dependencies**
-   ``` npm i
+   ``` bash
+   npm i
 3. **Start App**
-   ``` npm run dev
+   ``` bash
+   npm run dev
